@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning software engeneering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lucas.poupeau@outlook.com
-- My portfolio is : https://lucaspoupeau.vincz.fr
+- My portfolio is : https://lucaspoupeau.vincz.fr/portfolio
 
 <!---
 LucScript/LucScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
